@@ -22,3 +22,6 @@
 <p>
     <a href="https://matheuslmarchetti.github.io/Curso-de-Logica-de-Programacao-da-Alura/Desenhando-circulos-com-Mouse/index.html" target="_blank" rel="noopener noreferrer">Acesse Aqui a página do projeto: Desenhando Círculos com Mouse.</a>
 </p>
+<p>
+    <a href="https://matheuslmarchetti.github.io/Curso-de-Logica-de-Programacao-da-Alura/Acerte-o-Alvo/index.html" target="_blank" rel="noopener noreferrer">Acesse Aqui a página do projeto: Acerte o Alvo.</a>
+</p>
